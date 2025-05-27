@@ -51,6 +51,9 @@ Plugins/**/Binaries/*
 
 # Builds
 Build/*
+.idea/
+Build/
+Binaries/
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
